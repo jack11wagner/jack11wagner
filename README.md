@@ -4,7 +4,7 @@
 * Interested in a career in Data Science 
 * Languages: Python, Java
 
-# Current Projects:
+## Current Projects:
 * Cryptocurrency Trading Bot
 * Magic Mirror
 * Moravian Hue Light

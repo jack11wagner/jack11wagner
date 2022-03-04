@@ -9,9 +9,8 @@
 <!-- [![GitHub contributors](https://img.shields.io/github/contributors/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/jack11wagner/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/jack11wagner/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) -->
 
 ## Bio:
-* My name is Jack Wagner
-* Currently a Junior Computer Science major at Moravian University
-* Interested in a career in Data Science 
+* Junior Computer Science major at Moravian University
+* Interested in a field in Data Science/Data Analytics
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 

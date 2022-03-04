@@ -10,14 +10,15 @@
 
 ## Bio:
 * Junior Computer Science major at Moravian University
-* Interested in a field in Data Science/Data Analytics
+* Focused on Data Science/Data Analytics track
+* Looking towards learning Solidity programming language for better understanding of smart contracts
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Current Projects:
-* Cryptocurrency Trading Bot
+* [Moravian Hue Light](https://github.com/MoravianCollege/hue_sms)
+* [Cryptocurrency Trading Bot](https://github.com/jack11wagner/CryptoTrading-Algorithm)
 * Magic Mirror
-* Moravian Hue Light
 * Octopi
 
 

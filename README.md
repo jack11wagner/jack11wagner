@@ -3,7 +3,7 @@
 # Jack Wagner
 
 <a href="https://www.linkedin.com/in/jack-wagner-181b03162/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-[![Gmail Badge](https://img.shields.io/badge/-wagnerj05-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wagnerj05@moravian.edu)](mailto:wagnerj05@moravian.edu)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wagnerj05@moravian.edu)](mailto:wagnerj05@moravian.edu)
 
 
 <!-- [![GitHub contributors](https://img.shields.io/github/contributors/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/jack11wagner/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/jack11wagner/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) -->

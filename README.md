@@ -1,6 +1,6 @@
 
 
-# Jack Wagner
+# Hi 👋, I am Jack Wagner
 
 <a href="https://www.linkedin.com/in/jack-wagner-181b03162/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wagnerj05@moravian.edu)](mailto:wagnerj05@moravian.edu)
@@ -12,8 +12,9 @@
 * Junior Computer Science major at Moravian University
 * Focused on Data Science/Data Analytics track
 * Looking towards learning Solidity programming language for better understanding of smart contracts
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+* Python | Java | mySQL | mongoDB
+<!-- 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 
 ## Current Projects:
 * [Moravian Hue Light](https://github.com/MoravianCollege/hue_sms)

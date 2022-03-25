@@ -18,6 +18,7 @@
 ## Current Projects:
 * [Moravian Hue Light](https://github.com/MoravianCollege/hue_sms)
 * [Cryptocurrency Trading Bot](https://github.com/jack11wagner/CryptoTrading-Algorithm)
+* [Sandwich Truck Software Engineering Project](https://github.com/jack11wagner/234-Sandwich-Truck-Project)
 * Magic Mirror
 * Octopi
 

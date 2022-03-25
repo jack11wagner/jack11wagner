@@ -11,7 +11,7 @@
 ## Bio:
 * Junior Computer Science major at Moravian University
 * Focused on Data Science/Data Analytics track
-* Python | Java | mySQL | mongoDB | C
+* Python | Java | mySQL | mongoDB | C |
 <!-- 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 

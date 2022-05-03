@@ -15,7 +15,8 @@
 <!-- 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 
-## Current Projects:
+## Projects:
+* [CI/CD Pipeline DevOps Project](https://github.com/cs220s22/CI-CD-Pipeline_JF_JW)
 * [Moravian Hue Light](https://github.com/MoravianCollege/hue_sms)
 * [Cryptocurrency Trading Bot](https://github.com/jack11wagner/CryptoTrading-Algorithm)
 * [Sandwich Truck Software Engineering Project](https://github.com/jack11wagner/234-Sandwich-Truck-Project)

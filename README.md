@@ -10,6 +10,7 @@
 
 ## Bio:
 * Junior Computer Science major at Moravian University
+* Interests in Dev Ops, Machine Learning, Software Engineering
 * Focused on Data Science/Data Analytics track
 * Python | Java | mySQL | mongoDB | C |
 <!-- 

@@ -23,7 +23,7 @@
 * [Cryptocurrency Trading Bot](https://github.com/jack11wagner/CryptoTrading-Algorithm)
 * [Sandwich Truck Software Engineering Project](https://github.com/jack11wagner/234-Sandwich-Truck-Project)
 * Magic Mirror
-* Octopi
+* [Octopi](https://github.com/jack11wagner/Octoprint-Ender3.git)
 
 
 <!-- <i>Follow me around the web:</i><br>

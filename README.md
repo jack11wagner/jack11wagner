@@ -9,7 +9,7 @@
 <!-- [![GitHub contributors](https://img.shields.io/github/contributors/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/jack11wagner/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/jack11wagner/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) -->
 
 ## Bio:
-* Junior Computer Science major at Moravian University
+* Senior Computer Science major at Moravian University
 * Interests in Dev Ops, Machine Learning, Software Engineering
 * Focused on Data Science/Data Analytics track
 * Python | Java | mySQL | mongoDB | C |

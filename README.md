@@ -10,7 +10,8 @@
 
 ## Bio:
 * Senior Computer Science major at Moravian University
-* Interests in Dev Ops, Machine Learning, Software Engineering
+* Currently pursuing Masters of Data Analytics Degree at Moravian University
+* Interests in Dev Ops, Machine Learning, Software Engineering, Data Science, Data Analytics
 * Focused on Data Science/Data Analytics track
 * Python | Java | mySQL | mongoDB | C | Bash |
 <!-- 

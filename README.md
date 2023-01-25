@@ -1,4 +1,4 @@
-<!-- 
+
 
 # Hi 👋, I am Jack Wagner
 
@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wagnerj05@moravian.edu)](mailto:wagnerj05@moravian.edu)
 
 
-<!-- [![GitHub contributors](https://img.shields.io/github/contributors/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/jack11wagner/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/jack11wagner/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) -->
+<!-- [![GitHub contributors](https://img.shields.io/github/contributors/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/jack11wagner/creative-profile-readme)](https://github.com/jack11wagner/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/jack11wagner/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/jack11wagner/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme)
 
 ## Bio:
 * Senior Computer Science major at Moravian University

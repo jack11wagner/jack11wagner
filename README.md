@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 
 ## Projects:
+* [Senior Capstone Project - Mirrulations](https://github.com/MoravianUniversity/mirrulations)
 * [X-Ray Machine Learning Classification](https://github.com/jack11wagner/X-Ray-Classification)
 * [CI/CD Pipeline DevOps Project](https://github.com/cs220s22/CI-CD-Pipeline_JF_JW)
 * [Moravian Hue Light](https://github.com/MoravianCollege/hue_sms)

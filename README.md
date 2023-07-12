@@ -19,6 +19,7 @@
 
 ## Projects:
 * [Senior Capstone Project - Mirrulations](https://github.com/MoravianUniversity/mirrulations)
+* [Moravian Campus 3D](https://github.com/nikovacs/graphics-final)
 * [X-Ray Machine Learning Classification](https://github.com/jack11wagner/X-Ray-Classification)
 * [CI/CD Pipeline DevOps Project](https://github.com/cs220s22/CI-CD-Pipeline_JF_JW)
 * [Moravian Hue Light](https://github.com/MoravianCollege/hue_sms)
